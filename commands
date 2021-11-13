@@ -1,0 +1,1 @@
+history | awk '{for (i=4; i<NF; i++) printf   ; print }'
